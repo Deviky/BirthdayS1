@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791154614420",
+    "project_id": "birthdays-49094",
+    "storage_bucket": "birthdays-49094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791154614420:android:f77a7f97880877100d1481",
+        "android_client_info": {
+          "package_name": "com.matthelium.birthdays"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAAMACt9oX6at1tuBo5XNshcjrEN3C0WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
